@@ -1,0 +1,25 @@
+body {
+  background-color: #e4eddb;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 10%;
+}
+h1 {
+color: #307672;
+}
+h3 {
+color: #307672;
+}
+
+.footer-link1 {
+  color: white;
+}
+
+.bottom-container {
+  background-color: #307672;
+}
